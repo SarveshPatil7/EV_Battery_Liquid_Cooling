@@ -9,7 +9,9 @@
 
 ## Overview
 This project investigates **single-phase immersion cooling** as a next-generation thermal management solution for electric vehicle (EV) batteries.  
-Using **ANSYS Icepak**, we simulate and compare **air cooling**, **cold-plate liquid cooling**, and **immersion cooling** under varying discharge rates and flow conditions for a 3×3 21700 Li-ion cell module inspired by **Lucid Motors** pack design.
+Using **ANSYS Icepak**, we simulate and compare **air cooling**, **cold-plate liquid cooling**, and **immersion cooling** under varying discharge rates and flow conditions for a 3×3 21700 Li-ion cell module inspired by **Lucid Motors** pack design.  
+Special attention is given to **hot spots**, which are a common issue in cold-plate designs. These localized thermal gradients accelerate **cell degradation** and can potentially lead to **thermal runaway**, posing serious safety hazards. 
+Immersion cooling effectively minimizes temperature non-uniformities, making it the most robust and fire-safe cooling approach among those evaluated.
 
 ---
 
