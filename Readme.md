@@ -14,7 +14,7 @@ Using **ANSYS Icepak**, we simulate and compare **air cooling**, **cold-plate li
 ---
 
 ## Key Contributions
-- Modeled **battery heat generation** (ohmic, reversible, reaction) for realistic discharge rates (0.5C – 3C).  
+- Modeled **volumetric battery heat generation** for discharge rates (0.5C – 3C) as specifiec by a Lucid report.  
 - Designed custom **cold plate** and **immersion enclosures** in *SolidWorks* and imported into *ANSYS Icepak*.  
 - Conducted **90 CFD simulations** for six dielectric fluids under both forced-flow and static immersion conditions.  
 - Performed **mesh independence** and **pressure–temperature performance** studies.  
@@ -63,8 +63,6 @@ Using **ANSYS Icepak**, we simulate and compare **air cooling**, **cold-plate li
 
 ## Tools Used
 - **ANSYS Icepak** — CFD thermal simulation  
-- **SolidWorks** — geometry & cold-plate design  
-- **MATLAB / Excel** — post-processing & data visualization  
+- **SolidWorks** — cell geometry & cold-plate design   
 
----
 
