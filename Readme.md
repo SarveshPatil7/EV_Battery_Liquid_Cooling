@@ -63,8 +63,6 @@ Using **ANSYS Icepak**, we simulate and compare **air cooling**, **cold-plate li
 
 ## Tools Used
 - **ANSYS Icepak** — CFD thermal simulation  
-- **SolidWorks** — geometry & cold-plate design  
-- **MATLAB / Excel** — post-processing & data visualization  
+- **SolidWorks** — cell geometry & cold-plate design   
 
----
 
