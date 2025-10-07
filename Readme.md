@@ -57,7 +57,7 @@ Using **ANSYS Icepak**, we simulate and compare **air cooling**, **cold-plate li
 | Toluene | ★★★★☆ | ★☆☆☆☆ | Flammable |
 | Mineral Oil | ★★★☆☆ | ★★★★☆ | Cost-effective alternative |
 
-**Trade-off:** Immersion fluid weight ≈ 130 kg vs 15 kg for cold-plate system.
+**Trade-off:** Increased weight
 
 ---
 
