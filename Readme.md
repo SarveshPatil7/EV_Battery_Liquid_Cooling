@@ -59,8 +59,6 @@ Immersion cooling effectively minimizes temperature non-uniformities, making it 
 | Toluene | ★★★★☆ | ★☆☆☆☆ | Flammable |
 | Mineral Oil | ★★★☆☆ | ★★★★☆ | Cost-effective alternative |
 
-**Trade-off:** Increased weight
-
 ---
 
 ## Tools Used
