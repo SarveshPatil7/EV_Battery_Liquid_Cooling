@@ -33,7 +33,7 @@ Immersion cooling effectively minimizes temperature non-uniformities, making it 
 | Solver | ANSYS Icepak (steady-state) |
 | Turbulence model | Enhanced Realizable k–ε |
 | Geometry | 9-cell 21700 honeycomb array |
-| Coolants | EG 50/50, Novec 7200, Silicone 100, Mineral Oil, Toluene, etc. |
+| Coolants | EG 50/50, Novec 7200, Silicone 100, Mineral Oil, Toluene |
 
 ---
 
